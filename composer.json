@@ -1,5 +1,5 @@
 {
-    "name": "oizumi-junho/conn-php",
+    "name": "oizumi-junho/autenticar-acesso-php",
     "description": "Criado para fazer o controle de acesso a arquivos",
     "type": "library",
     "minimum-stability": "stable",
